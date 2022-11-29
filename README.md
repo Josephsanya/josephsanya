@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS and Python**
 
-- 🤝 I’m looking for internships on **backend development**
+- 🤝 I’m looking for internships on **software development**
 
 - 👨‍💻 All of my projects are available at [jhowsef.com/projects](jhowsef.com/projects)
 
