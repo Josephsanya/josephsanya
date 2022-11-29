@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [jhowsef.com/blog](jhowsef.com/blog)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript object oriented programming**
 
 - 📫 How to reach me **sanyaoluj1@gmail.com**
 
