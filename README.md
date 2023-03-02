@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/josephsanyaolu_" target="blank"><img src="https://img.shields.io/twitter/follow/josephsanyaolu_?logo=twitter&style=for-the-badge" alt="josephsanyaolu_" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS and Python**
+- 🌱 I’m currently learning **NodeJS**
+
+- 👨‍💻 I’m proficient and confident in **Javascript and Python**
 
 - 🤝 I’m looking for internships on **software development**
 
@@ -11,7 +13,7 @@
 
 - 📝 I regularly write articles on [jhowsef.com/blog](jhowsef.com/blog)
 
-- 💬 Ask me about **Javascript object oriented programming**
+- 💬 Ask me about **Javascript programming**
 
 - 📫 How to reach me **sanyaoluj1@gmail.com**
 
